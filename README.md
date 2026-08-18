@@ -129,7 +129,7 @@ Esquema estrela com a tabela fato `fato_casco` no centro, conectada a 5 dimensõ
 
 Este projeto também inclui um **dashboard em Power BI**, construído sobre o modelo estrela e as métricas apresentadas neste repositório (medidas DAX de Sinistralidade, Ticket Médio e Exposição, entre outras). O dashboard faz parte do escopo completo do projeto.
 
-🔗 **Link do dashboard/repositório do Power BI:** *(a incluir)*
+🔗 **Link do dashboard/repositório do Power BI: https://app.powerbi.com/view?r=eyJrIjoiZTllMGM3MWItZWVhMi00OWQ1LWJkM2MtYzYzYjRmYmRmNjIyIiwidCI6ImIyZTcyZjRjLWMxMzItNDc2NS1iZGMyLTRjNjNjYmQzZmU4YiJ9
 
 
 ## 👤 Autor
