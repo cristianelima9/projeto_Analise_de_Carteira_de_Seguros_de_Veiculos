@@ -1,7 +1,7 @@
 # Projeto_Analise_de_Carteira_de_Seguros_de_Veiculos
 Análise de carteira de seguros auto (SUSEP) em SQL Server e Power BI
 
-# Análise de Sinistralidade — SUSEP AUTOSEG (Casco Compreensivo)
+# Análise de Sinistralidade — SUSEP AUTOSEG - 2º Semestre de 2019
 
 Projeto de análise de dados do setor de seguros automotivos brasileiro, construído em **SQL Server (T-SQL)** a partir dos microdados públicos da SUSEP (Superintendência de Seguros Privados), segmento **Casco Compreensivo**.
 
